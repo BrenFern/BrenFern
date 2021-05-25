@@ -11,11 +11,14 @@
 
 - I'm from Brazil, living in Rio de Janeiro 🇧🇷
 
-- Headbanger 🖤
+- 17 years old 🙂 
+
+- Headbanger and Progger 🖤
 
 - I like to work with Linux, Ansible, Terraform, Python and other tools in this incredible and fun open source world 🔌
 
 - I believe that Ambition, teamwork, focus and determination surpass any talent! 🤝🏾
+
 - "The most merciful thing in the world is, in my view, the inability of the human mind to correlate everything it knows." H.P. Lovecraft 🐙🦑
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenFern&theme=synthwave&show_icons=true)
