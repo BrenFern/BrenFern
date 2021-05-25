@@ -5,7 +5,7 @@
 [ ![Spotify](https://camo.githubusercontent.com/c66a3368b0d8d1f0e10521fb1be14fc0b500d095d9e0479fa0f63aecfda2e63f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f746966792d2532333145443736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465)](https://open.spotify.com/user/222yykjac3xf7rjrbw4koa7fy?si=cd60428fab304249)
 ![Outlook](https://img.shields.io/badge/BrenFernCast@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-# **Se liga rapezie!🙅‍♂️**
+# **Se liga rapezie! 🙅‍♂️**
 
 ## My name is Breno and I'm a Computer Networking student at FAETEC | DevOps Enthusiast | Linux.
 
@@ -17,7 +17,7 @@
 
 - I like to work with Linux, Ansible, Terraform, Python and other tools in this incredible and fun open source world 🔌
 
-- I believe that Ambition, teamwork, focus and determination surpass any talent! 🤝🏾
+- I believe that Ambition, teamwork, focus and determination surpass any talent! 🤝
 
 - "The most merciful thing in the world is, in my view, the inability of the human mind to correlate everything it knows." H.P. Lovecraft 🐙🦑
 
