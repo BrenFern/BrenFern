@@ -3,7 +3,7 @@
 [![Instagram](https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465) ](https://www.instagram.com/brenfern_/)
 [ ![LinkedIn](https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/in/brenfern/)
 [ ![Spotify](https://camo.githubusercontent.com/c66a3368b0d8d1f0e10521fb1be14fc0b500d095d9e0479fa0f63aecfda2e63f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f746966792d2532333145443736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465)](https://open.spotify.com/user/222yykjac3xf7rjrbw4koa7fy?si=cd60428fab304249)
-[![Outlook](https://img.shields.io/badge/BrenFernCast@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](BrenFernCast@outlook.com)
+![Outlook](https://img.shields.io/badge/BrenFernCast@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 # **Se liga rapezie!🙅‍♂️**
 
@@ -15,13 +15,15 @@
 
 - I like to work with Linux, Ansible, Terraform, Python and other tools in this incredible and fun open source world 🔌
 
-- I believe that with Ambition, teamwork, focus and determination surpass any talent! 🤝🏾
+- I believe that Ambition, teamwork, focus and determination surpass any talent! 🤝🏾
 - "The most merciful thing in the world is, in my view, the inability of the human mind to correlate everything it knows." H.P. Lovecraft 🐙🦑
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenFern&theme=synthwave&show_icons=true)
 
 # **My workspace 💻**
+
 ![print2](print2.png)
+
 # **My favorite tools 🛠️**
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
