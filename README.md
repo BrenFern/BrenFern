@@ -44,7 +44,7 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 
 # **My books** 📚
-> _A coleção tá pequena ainda_
+> _A coleção tá pequena ainda._
 
 ![Books](books.png)
 
