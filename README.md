@@ -5,13 +5,13 @@
 [ ![Spotify](https://camo.githubusercontent.com/c66a3368b0d8d1f0e10521fb1be14fc0b500d095d9e0479fa0f63aecfda2e63f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f746966792d2532333145443736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465)](https://open.spotify.com/user/222yykjac3xf7rjrbw4koa7fy?si=cd60428fab304249)
 ![Outlook](https://img.shields.io/badge/BrenFernCast@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
-# **Se liga rapezie! 🙅‍♂️**
+# **Olá**
 
 ## My name is Breno and I'm a Computer Networking student at FAETEC | DevOps Enthusiast | Linux.
 
 - I'm from Brazil, living in Rio de Janeiro 🇧🇷
 
-- 17 years old 🙂 
+- 19 years old 🙂 
 
 - Headbanger and Progger 🖤
 
@@ -42,14 +42,3 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
-# **My books** 📚
-> _A coleção tá pequena ainda._
-
-![Books](books.png)
-
-- Descobrindo o Linux: Entenda o Sistema Operacional GNU/Linux 🐧 
-
-- Análise de Tráfego em Redes TCP/IP: Utilize Tcpdump na Análise de Tráfegos em Qualquer Sistema Operacional 🌐  
-
-- H.P. Lovecraft - Medo Clássico - Vol. 1 - Cosmic Edition: O mestre dos mestres para todas as gerações 🐙🦑
