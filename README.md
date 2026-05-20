@@ -1,6 +1,4 @@
-  <p><img src="https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat" alt="License">
-<img src="https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove" alt="ViewCount"></p>
-<h3 id="hi-there--im-thomas-george-thomas">Hi there 👋 I’m Thomas George Thomas,</h3>
+>Hi there 👋 I’m Thomas George Thomas,</h3>
 <p>A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:</p>
 <ul>
 <li>⚡ <strong>Fun fact:</strong> I believe in the <em>Chaos theory</em>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable &amp; sensible pattern not seen initially.</li>
