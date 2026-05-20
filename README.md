@@ -1,5 +1,5 @@
->Hi there 👋 I’m Thomas George Thomas,</h3>
-<p>A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:</p>
+>Hi there 👋 I’m Breno Fernandes,</h3>
+<p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.:robot:</p>
 <ul>
 <li>⚡ <strong>Fun fact:</strong> I believe in the <em>Chaos theory</em>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable &amp; sensible pattern not seen initially.</li>
 <li>🔭 I’m currently working on:
