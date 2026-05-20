@@ -1,43 +1,63 @@
-# **Olá, seja bem vindo!**
+  <p><img src="https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat" alt="License">
+<img src="https://views.whatilearened.today/views/github/Thomas-George-T/Thomas-George-T.svg?cache=remove" alt="ViewCount"></p>
+<h3 id="hi-there--im-thomas-george-thomas">Hi there 👋 I’m Thomas George Thomas,</h3>
+<p>A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot:</p>
+<ul>
+<li>⚡ <strong>Fun fact:</strong> I believe in the <em>Chaos theory</em>: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable &amp; sensible pattern not seen initially.</li>
+<li>🔭 I’m currently working on:
+<ul>
+<li>Linear regression on Health data</li>
+<li>Twitter Sentimental Analysis using NLP and clustering</li>
+</ul>
+</li>
+<li>:bulb: I’m interested in all things data: <strong>Big Data, Cloud, Machine Learning and Data Science</strong></li>
+<li>💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.</li>
+<li>🌱 I’m currently pursuing <strong>Machine learning</strong>.</li>
+</ul>
+<h3 id="my-skills-include">My skills include</h3>
+<p align="center">
+	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40">
+	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="40">
+	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40">
+	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40">
+	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40">
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40">
+	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40">	
+	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40">
+	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40">
+	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40">
+</p>
+<!--
+**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+T
+Here are some ideas to get you started:
 
-
-[![Instagram](https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465) ](https://www.instagram.com/brenfern_/)
-[ ![LinkedIn](https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465) ](https://www.linkedin.com/in/brenfern/)
-[ ![Spotify](https://camo.githubusercontent.com/c66a3368b0d8d1f0e10521fb1be14fc0b500d095d9e0479fa0f63aecfda2e63f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f73706f746966792d2532333145443736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465)](https://open.spotify.com/user/222yykjac3xf7rjrbw4koa7fy?si=cd60428fab304249)
-![Outlook](https://img.shields.io/badge/BrenFernCast@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
-
-## My name is Breno and I'm a Computer Networking student at FAETEC | DevOps Enthusiast | Linux.
-
-- I'm from Brazil, living in Rio de Janeiro 🇧🇷
-
-- 19 years old 🙂 
-
-- Headbanger and Progger 🖤
-
-- I like to work with Linux, Ansible, Terraform, Python and other tools in this incredible and fun open source world 🔌
-
-- I believe that Ambition, teamwork, focus and determination surpass any talent! 🤝
-
-- "The most merciful thing in the world is, in my view, the inability of the human mind to correlate everything it knows." H.P. Lovecraft 🐙🦑
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenFern&theme=synthwave&show_icons=true)
-
-# **My workspace 💻**
-
-![print2](print2.png)
-
-# **My favorite tools 🛠️**
-
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitLab CI](https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Ngnix](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<h3 id="my-recent-post-on-medium">My Recent post on Medium!</h3>
+<p><a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></a></p>
+<p><strong>If you find my work good, consider giving it a :star: or fork-ing to show some :heart:. It helps me stay on track and be motivated.</strong></p>
+<hr>
+<p align="center">
+   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <br>
+   <i>You miss 100% of the shots you don't take.</i>
+   <br>
+<br>	
+<a target="_blank" href="https://www.linkedin.com/in/thomasgeorgethomas"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white"></a>
+<a target="_blank" href="mailto:thomasgeorgethomas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&amp;logo=Gmail&amp;logoColor=white"></a>
+<a target="_blank" href="https://medium.com/@thomas_george_thomas"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&amp;logo=Medium&amp;logoColor=white"></a>
+<a target="_blank" href="https://twitter.com/Thomas_George_T"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&amp;logo=Twitter&amp;logoColor=white"></a>
+<br>
+</p>
+<hr>
+<p>Credits: <a href="https://github.com/Thomas-George-T">Thomas-George-T</a></p>
+<p>Last Edited on: 31/08/2020</p> 
