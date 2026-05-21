@@ -6,11 +6,22 @@
     <h3>👨🏽‍💻 About me:</h3>
     <p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.</p>
 </div>
+html<br><br>
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <br>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
+</div>
 
 <br>
 
+<div align="center">
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenFern&theme=slateorange&background=bbb8b2" alt="GitHub Streak">
+</div>
 
-<br>
+<br><br>
 
 <div align="left">
   <h3>🧰 Tech Stack:</h3>
