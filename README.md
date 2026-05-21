@@ -9,10 +9,6 @@
 
 <br>
 
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
-</div>
 
 <br>
 
