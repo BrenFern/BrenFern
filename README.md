@@ -12,14 +12,35 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&include_all_commits=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=f34213&locale=en&hide_border=true&bg_color=bbb8b2" alt="Breno's github stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenFern&layout=compact&theme=slateorange&title_color=f34213&text_color=0c0c0c&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
+  </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenFern&theme=slateorange&background=bbb8b2" alt="GitHub Streak">
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenFern&theme=slateorange&background=bbb8b2" alt="GitHub Streak Stats">
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BrenFern&row=2&column=6&theme=slateorange&no-frame=false&no-bg=false" alt="BrenFern">
+  </a>
+</div>
+
+<br><br>
+
+<div align="center">
+  <h4>Contribution Graph</h4>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=BrenFern&theme=slateorange&bg_color=bbb8b2" alt="Breno's github activity graph">
+  </a>
 </div>
 
 <br><br>
