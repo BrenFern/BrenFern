@@ -17,7 +17,7 @@
 <br>
 
 <div align="left">
-  <h3>🧰 Tech Stack I use:</h3>
+  <h3>🧰 Tech Stack:</h3>
   <br>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>&nbsp;
   <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/></a>&nbsp;
@@ -38,8 +38,8 @@
 <div align="left">
   <h3>📱 Social Medias:</h3>
   <br>
-  <a href="https://www.linkedin.com/in/[Seu-LinkedIn]/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:[Seu-Email]@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=D14836&style=for-the-badge&logo=gmail&logoColor=whitesmoke" alt="E-mail"/></a>
+<a href="https://www.linkedin.com/in/[Seu-LinkedIn]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:[Seu-Email]@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
 </div>
 
 <hr>
