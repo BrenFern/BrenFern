@@ -17,7 +17,7 @@
 
 ## Activity Graph
 
-[![Deborah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenFern&theme=high-contrast)](https://github.com/BrenFern)
+[![Deborah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenFern&theme=gruvbox)](https://github.com/BrenFern)
 
 
 <div align="left">
