@@ -6,34 +6,50 @@
     <h3>👨🏽‍💻 About me:</h3>
     <p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.</p>
 </div>
+
 <br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=BrenFern&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
+</div>
+
+<br>
+
 <div align="left">
   <h3>🧰 Languages and tools I use:</h3>
   <br>
-    <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"></a>&nbsp;&nbsp;
-    <a href="https://spark.apache.org/"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Spark"></a>&nbsp;&nbsp;
-    <a href="https://www.databricks.com/"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="Databricks"></a>&nbsp;&nbsp;
-    <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB"></a>&nbsp;&nbsp;
-    <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL"></a>&nbsp;&nbsp;
-    <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS"></a>&nbsp;&nbsp;
-    <a href="https://azure.microsoft.com/"><img src="https://cdn.simpleicons.org/microsoftazure/0089D6" height="40" alt="Azure"></a>&nbsp;&nbsp;
-    <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"></a>&nbsp;&nbsp;
-    <a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu"></a>&nbsp;&nbsp;
-    <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"></a>
+  <div>
+    <!-- Programming & Data Processing -->
+    <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://spark.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache Spark" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://www.databricks.com/" target="_blank"><img src="https://www.databricks.com/en/favicon.ico" alt="Databricks" width="40" height="40"/></a>&nbsp;&nbsp;
+    
+    <!-- Databases -->
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/></a>&nbsp;&nbsp;
+    
+    <!-- Cloud Platforms -->
+    <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/></a>&nbsp;&nbsp;
+    
+    <!-- OS & Tools -->
+    <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
+    <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a>
+  </div>
 </div>
 
 <hr>
 
-<div>
-  <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/[Seu-Linkedin]/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="mailto:[Seu-E-mail]@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=D14836&style=for-the-badge&logo=gmail&logoColor=whitesmoke" alt="E-mail"></a>
+<div align="left">
+  <h3>📱 Social Medias:</h3>
+  <br>
+  <a href="https://www.linkedin.com/in/[Seu-LinkedIn]/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:[Seu-Email]@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=D14836&style=for-the-badge&logo=gmail&logoColor=whitesmoke" alt="E-mail"/></a>
 </div>
 
 <hr>
 
-<p>Last Edited on: May 2026</p>
+<p align="center"><i>Last Edited on: May 2026</i></p>
