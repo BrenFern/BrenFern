@@ -1,50 +1,75 @@
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Illustration" width="400/">
+ <img align="right" src="https://github.com/BrenFern/BrenFern/blob/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="450/">
 
-<h1 align="left">Hi 👋🏽, I'm [Seu Nome]</h1>
-<h3 align="left">I have a passion for Data Engineering and Cloud Architecture! 🚀</h3>
+<h1 align="left">Hi 👋🏽, I'm Breno Fernandes</h1>
+
+<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 
 <div align="left">
+
     <h3>👨🏽‍💻 About me:</h3>
-    <p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.</p>
-    
-    <br>
-    <p>• 🔭 <b>I’m currently working on:</b> A large-scale 400GB database migration utilizing <code>mongoexport</code> and PySpark, as well as automating PostgreSQL maintenance with replication slots.</p>
-    <p>• 📚 <b>I’m currently learning:</b> Advanced Data Engineering patterns and improving my English fluency.</p>
-    <p>• 💬 <b>Ask me about:</b> Linux environments (Ubuntu & BTRFS), AWS infrastructure, classic Pokémon runs, technical death metal, or Flamengo's latest match!</p>
-    <p>• 📫 <b>How to reach me:</b> [seu-email]@gmail.com</p>
+
+        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
+
+        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+
+        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
+
 </div><br>
 
 <div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario-github]&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=[seu-usuario-github]&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
+
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&amp;show_icons=true&amp;theme=slateorange&amp;title_color=f34213&amp;text_color=0c0c0c&amp;icon_color=0c0c0c&amp;locale=en&amp;hide_border=true&amp;bg_color=bbb8b2" alt="gabrlcj">
+
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&amp;show_icons=true&amp;theme=slateorange&amp;title_color=f34213&amp;text_color=0c0c0c&amp;icon_color=0c0c0c&amp;layout=compact&amp;hide_border=true&amp;bg_color=bbb8b2" alt="gabrlcj">
+
 </div>
 
 <hr>
 
 <div>
-  <h3>🧰 Languages and tools I use:</h3><br>
-    <img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/static/v1?label=&message=Apache%20Spark&color=E25A1C&style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
-    <img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-    <img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+  <h3>🧰 Languages and tools I'm learning until now:</h3><br>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=HTML5&amp;color=%23E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=whitesmoke" alt="HTML5"></a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=CSS3&amp;color=%231572B6&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=whitesmoke" alt="CSS3"></a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=SASS&amp;color=%23CC6699&amp;style=for-the-badge&amp;logo=sass&amp;logoColor=whitesmoke" alt="SASS"></a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=Javascript&amp;color=%23F7DF1E&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=grey" alt="Javascript"> </a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=Typescript&amp;color=%233178C6&amp;style=for-the-badge&amp;logo=typescript&amp;logoColor=03256C" alt="Typescript"></a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=REACT.JS&amp;color=%2361DAFB&amp;style=for-the-badge&amp;logo=react&amp;logoColor=grey" alt="REACT.JS"></a>
+
     <br><br>
-    <img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/static/v1?label=&message=Microsoft%20Azure&color=0089D6&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
-    <img src="https://img.shields.io/static/v1?label=&message=Databricks&color=FF3621&style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
-    <br><br>
-    <img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-    <img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white" alt="Git">
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=GIT&amp;color=%23F05032&amp;style=for-the-badge&amp;logo=git&amp;logoColor=whitesmoke" alt="GIT"></a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=GITHUB&amp;color=%23181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=whitesmoke" alt="GITHUB"></a>
+
+    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=FIGMA&amp;color=%23552d84&amp;style=for-the-badge&amp;logo=figma&amp;logoColor=whitesmoke" alt="FIGMA"></a>
+
 </div>
 
 <hr>
 
 <div>
+
   <h3>📱 Social Medias:</h3><br>
-    <a href="https://www.linkedin.com/in/[seu-linkedin]/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="https://medium.com/@[seu-medium]" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Medium&color=12100E&style=for-the-badge&logo=medium&logoColor=whitesmoke" alt="Medium"></a>
+
+    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Linkedin&amp;color=0A66C2&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=whitesmoke" alt="Linkedin"></a>
+
+    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Codepen&amp;color=%23000000&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=whitesmoke" alt="Codepen"></a>
+
+    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&amp;message=DEV&amp;color=%230A0A0A&amp;style=for-the-badge&amp;logo=dev.to" alt="DEV"></a>
+
+    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Instagram&amp;color=lightpink&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=black" alt="Instagram"></a>
+
 </div>
 
 <hr>
 
-<p>Last Edited on: May 2026</p>
+<p>Credit: <a href="https://github.com/gabrlcj">gabrlcj</a></p>
+
+<p>Last Edited on: 23/10/2021</p> 
