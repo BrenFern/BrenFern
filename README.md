@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋🏽, I'm [Breno Fernandes]</h1>
+<h1 align="left">Hi 👋🏽, I'm Breno Fernandes</h1>
 <h3 align="left">I have a passion for Data Engineering, Databases, IA and Technology! 🚀</h3>
 
 <div align="left">
