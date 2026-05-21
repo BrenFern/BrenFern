@@ -18,6 +18,14 @@
 
 <br><br>
 
+<div align="center">
+  <h3>📈 Contribution Graph</h3>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=BrenFern&theme=high_contrast&bg_color=000000" alt="Breno's github activity graph">
+</div>
+
+<br><br>
+
 <div align="left">
   <h3>🧰 Tech Stack:</h3>
   <br>
