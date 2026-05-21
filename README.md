@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋🏽, I'm Breno Fernandes</h1>
-<h3 align="left">I have a passion for Data Engineering, Databases, IA and Technology! 🚀</h3>
+<h3 align="left">I have a passion for Data Engineering, Databases, AI and Technology! 🚀</h3>
 
 <div align="left">
     <img align="right" src="https://github.com/BrenFern/BrenFern/raw/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="420">
@@ -17,18 +17,12 @@
 
 <div>
   <h3>🧰 Languages and tools I use:</h3><br>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <a href="https://spark.apache.org/"><img src="https://img.shields.io/static/v1?label=&message=Apache%20Spark&color=E25A1C&style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"></a>
-    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,postgres,mongo,aws,azure,linux,ubuntu,git&theme=dark" alt="Skills" />
+    </a>
     <br><br>
-    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/static/v1?label=&message=Microsoft%20Azure&color=0089D6&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
-    <a href="https://www.databricks.com/"><img src="https://img.shields.io/static/v1?label=&message=Databricks&color=FF3621&style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"></a>
-    <br><br>
-    <a href="https://www.linux.org/"><img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-    <a href="https://ubuntu.com/"><img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
+    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
 </div>
 
 <hr>
