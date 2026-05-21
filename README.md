@@ -10,23 +10,18 @@
 <br><br>
 
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&theme=radical" alt="Breno's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenFern&layout=compact&theme=radical" alt="Top Languages">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=BrenFern&theme=github-light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
 
-<br><br>
+## Activity Graph
 
-<div align="center">
-  <h3>📈 Contribution Graph</h3>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=BrenFern&theme=high_contrast&bg_color=000000" alt="Breno's github activity graph">
-</div>
+[![Deborah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrenFern&theme=github-compact)](https://github.com/BrenFern)
 
-<br><br>
 
 <div align="left">
+    
   <h3>🧰 Tech Stack:</h3>
   <br>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>&nbsp;
