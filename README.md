@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋🏽, I'm [Seu Nome]</h1>
-<h3 align="left">I have a passion for Data Engineering and Technology! 🚀</h3>
+<h1 align="left">Hi 👋🏽, I'm [Breno Fernandes]</h1>
+<h3 align="left">I have a passion for Data Engineering, Databases, IA and Technology! 🚀</h3>
 
 <div align="left">
     <img align="right" src="https://github.com/BrenFern/BrenFern/raw/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="420">
