@@ -11,23 +11,19 @@
 <div align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
-</div>
-
-<hr>
-
-
-<div>
-  <h3>🧰 Languages and tools I use:</h3><br>
-    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"></a>
-    <a href="https://www.databricks.com/"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"></a>
-    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
-    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
-    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
-    <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
-    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+<div align="left">
+  <h3>🧰 Languages and tools I use:</h3>
+  <br>
+    <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"></a>&nbsp;&nbsp;
+    <a href="https://spark.apache.org/"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Spark"></a>&nbsp;&nbsp;
+    <a href="https://www.databricks.com/"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="Databricks"></a>&nbsp;&nbsp;
+    <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB"></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL"></a>&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="AWS"></a>&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/"><img src="https://cdn.simpleicons.org/microsoftazure/0089D6" height="40" alt="Azure"></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"></a>&nbsp;&nbsp;
+    <a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu"></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"></a>
 </div>
 
 <hr>
