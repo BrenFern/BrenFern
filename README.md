@@ -1,12 +1,12 @@
-<img align="right" src="https://github.com/BrenFern/BrenFern/blob/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="450/">
-
 <h1 align="left">Hi 👋🏽, I'm [Seu Nome]</h1>
 <h3 align="left">I have a passion for Data Engineering and Technology! 🚀</h3>
 
 <div align="left">
+    <img align="right" src="https://github.com/BrenFern/BrenFern/raw/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="420">
     <h3>👨🏽‍💻 About me:</h3>
     <p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.</p>
-</div><br>
+</div>
+<br>
 
 <div align="center">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
@@ -41,4 +41,4 @@
 
 <hr>
 
-<p>Last Edited on: June 2026</p>
+<p>Last Edited on: May 2026</p>
