@@ -6,7 +6,8 @@
     <h3>👨🏽‍💻 About me:</h3>
     <p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.</p>
 </div>
-html<br><br>
+
+<br><br>
 
 <div align="center">
   <h3>📊 GitHub Stats</h3>
@@ -26,7 +27,7 @@ html<br><br>
 <div align="left">
   <h3>🧰 Tech Stack:</h3>
   <br>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>&nbsp;
   <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/></a>&nbsp;
   <a href="https://www.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/></a>&nbsp;
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>&nbsp;
@@ -45,8 +46,8 @@ html<br><br>
 <div align="left">
   <h3>📱 Social Medias:</h3>
   <br>
-<a href="https://www.linkedin.com/in/[Seu-LinkedIn]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="mailto:[Seu-Email]@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
+  <a href="https://www.linkedin.com/in/[Seu-LinkedIn]/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:[Seu-Email]@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/></a>
 </div>
 
 <hr>
