@@ -17,12 +17,16 @@
 
 <div>
   <h3>🧰 Languages and tools I use:</h3><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,postgres,mongo,aws,azure,linux,ubuntu,git&theme=dark" alt="Skills" />
-    </a>
-    <br><br>
-    <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
-    <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks">
+    <a href="https://www.python.org/"><img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python"></a>&nbsp;&nbsp;
+    <a href="https://spark.apache.org/"><img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="Spark"></a>&nbsp;&nbsp;
+    <a href="https://www.databricks.com/"><img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="Databricks"></a>&nbsp;&nbsp;
+    <a href="https://www.mongodb.com/"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB"></a>&nbsp;&nbsp;
+    <a href="https://www.postgresql.org/"><img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL"></a>&nbsp;&nbsp;
+    <a href="https://aws.amazon.com/"><img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS"></a>&nbsp;&nbsp;
+    <a href="https://azure.microsoft.com/"><img src="https://cdn.simpleicons.org/microsoftazure/0089D6" height="40" alt="Azure"></a>&nbsp;&nbsp;
+    <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux/FCC624" height="40" alt="Linux"></a>&nbsp;&nbsp;
+    <a href="https://ubuntu.com/"><img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="Ubuntu"></a>&nbsp;&nbsp;
+    <a href="https://git-scm.com/"><img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"></a>
 </div>
 
 <hr>
