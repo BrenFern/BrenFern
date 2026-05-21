@@ -12,12 +12,8 @@
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&include_all_commits=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=f34213&locale=en&hide_border=true&bg_color=bbb8b2&cache_seconds=86400" alt="Breno's github stats">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenFern&layout=compact&theme=slateorange&title_color=f34213&text_color=0c0c0c&hide_border=true&bg_color=bbb8b2&cache_seconds=86400" alt="Top Languages">
-  </a>
+  ![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrenFern&show_icons=true&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrenFern&layout=compact&theme=radical)
 </div>
 
 <br><br>
