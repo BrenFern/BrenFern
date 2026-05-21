@@ -1,75 +1,44 @@
- <img align="right" src="https://github.com/BrenFern/BrenFern/blob/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="450/">
+<img align="right" src="https://github.com/BrenFern/BrenFern/blob/master/Illustration.svg" alt="Illustration" title="Illustration Storyset" width="450/">
 
-<h1 align="left">Hi 👋🏽, I'm Breno Fernandes</h1>
-
-<h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
+<h1 align="left">Hi 👋🏽, I'm [Seu Nome]</h1>
+<h3 align="left">I have a passion for Data Engineering and Technology! 🚀</h3>
 
 <div align="left">
-
     <h3>👨🏽‍💻 About me:</h3>
-
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
-
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-
-        <p>• 📫 How to reach me: <b>gabrielbittencourt57@gmail.com</b></p>
-
+    <p>Data-driven professional transitioning to Data Engineering, leveraging a strong foundation in Database Administration (MongoDB, PostgreSQL, Azure SQL). I have hands-on experience designing ETL/ELT pipelines, complex data migrations, and integrating operational databases with Big Data ecosystems across multi-cloud environments. Proficient in leveraging AWS (Glue, S3, Athena, DMS), Azure (Data Factory, Synapse Analytics, Blob Storage), Databricks, and PySpark. Passionate about Linux environments and open-source technologies, bringing deep expertise in performance tuning, CDC (Change Data Capture), and high-availability systems to build robust, scalable data architectures.</p>
 </div><br>
 
 <div align="center">
-
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&amp;show_icons=true&amp;theme=slateorange&amp;title_color=f34213&amp;text_color=0c0c0c&amp;icon_color=0c0c0c&amp;locale=en&amp;hide_border=true&amp;bg_color=bbb8b2" alt="gabrlcj">
-
-    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&amp;show_icons=true&amp;theme=slateorange&amp;title_color=f34213&amp;text_color=0c0c0c&amp;icon_color=0c0c0c&amp;layout=compact&amp;hide_border=true&amp;bg_color=bbb8b2" alt="gabrlcj">
-
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="GitHub Stats">
+    <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrlcj&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&layout=compact&hide_border=true&bg_color=bbb8b2" alt="Top Languages">
 </div>
 
 <hr>
 
 <div>
-
-  <h3>🧰 Languages and tools I'm learning until now:</h3><br>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=HTML5&amp;color=%23E34F26&amp;style=for-the-badge&amp;logo=html5&amp;logoColor=whitesmoke" alt="HTML5"></a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=CSS3&amp;color=%231572B6&amp;style=for-the-badge&amp;logo=css3&amp;logoColor=whitesmoke" alt="CSS3"></a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=SASS&amp;color=%23CC6699&amp;style=for-the-badge&amp;logo=sass&amp;logoColor=whitesmoke" alt="SASS"></a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=Javascript&amp;color=%23F7DF1E&amp;style=for-the-badge&amp;logo=javascript&amp;logoColor=grey" alt="Javascript"> </a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=Typescript&amp;color=%233178C6&amp;style=for-the-badge&amp;logo=typescript&amp;logoColor=03256C" alt="Typescript"></a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=REACT.JS&amp;color=%2361DAFB&amp;style=for-the-badge&amp;logo=react&amp;logoColor=grey" alt="REACT.JS"></a>
-
+  <h3>🧰 Languages and tools I use:</h3><br>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/static/v1?label=&message=Python&color=3776AB&style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+    <a href="https://spark.apache.org/"><img src="https://img.shields.io/static/v1?label=&message=Apache%20Spark&color=E25A1C&style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=4169E1&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
     <br><br>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=GIT&amp;color=%23F05032&amp;style=for-the-badge&amp;logo=git&amp;logoColor=whitesmoke" alt="GIT"></a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=GITHUB&amp;color=%23181717&amp;style=for-the-badge&amp;logo=github&amp;logoColor=whitesmoke" alt="GITHUB"></a>
-
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&amp;message=FIGMA&amp;color=%23552d84&amp;style=for-the-badge&amp;logo=figma&amp;logoColor=whitesmoke" alt="FIGMA"></a>
-
+    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/static/v1?label=&message=AWS&color=232F3E&style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"></a>
+    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/static/v1?label=&message=Microsoft%20Azure&color=0089D6&style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"></a>
+    <a href="https://www.databricks.com/"><img src="https://img.shields.io/static/v1?label=&message=Databricks&color=FF3621&style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"></a>
+    <br><br>
+    <a href="https://www.linux.org/"><img src="https://img.shields.io/static/v1?label=&message=Linux&color=FCC624&style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+    <a href="https://ubuntu.com/"><img src="https://img.shields.io/static/v1?label=&message=Ubuntu&color=E95420&style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"></a>
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/static/v1?label=&message=Git&color=F05032&style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
 </div>
 
 <hr>
 
 <div>
-
   <h3>📱 Social Medias:</h3><br>
-
-    <a href="https://www.linkedin.com/in/gabrielbittencourtpenteado/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Linkedin&amp;color=0A66C2&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=whitesmoke" alt="Linkedin"></a>
-
-    <a href="https://codepen.io/gabrlcj" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Codepen&amp;color=%23000000&amp;style=for-the-badge&amp;logo=codepen&amp;logoColor=whitesmoke" alt="Codepen"></a>
-
-    <a href="https://dev.to/gabrlcj"><img src="https://img.shields.io/static/v1?label=&amp;message=DEV&amp;color=%230A0A0A&amp;style=for-the-badge&amp;logo=dev.to" alt="DEV"></a>
-
-    <a href="https://www.instagram.com/gabrlcj/" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=Instagram&amp;color=lightpink&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=black" alt="Instagram"></a>
-
+    <a href="https://www.linkedin.com/in/[Seu-Linkedin]/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
+    <a href="mailto:[Seu-E-mail]@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=E-mail&color=D14836&style=for-the-badge&logo=gmail&logoColor=whitesmoke" alt="E-mail"></a>
 </div>
 
 <hr>
 
-<p>Credit: <a href="https://github.com/gabrlcj">gabrlcj</a></p>
-
-<p>Last Edited on: 23/10/2021</p> 
+<p>Last Edited on: June 2026</p>
