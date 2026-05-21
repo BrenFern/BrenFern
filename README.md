@@ -20,29 +20,6 @@
   </a>
 </div>
 
-<br>
-
-<div align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BrenFern&theme=slateorange&background=bbb8b2" alt="GitHub Streak Stats">
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BrenFern&row=2&column=6&theme=slateorange&no-frame=false&no-bg=false" alt="BrenFern">
-  </a>
-</div>
-
-<br><br>
-
-<div align="center">
-  <h4>Contribution Graph</h4>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=BrenFern&theme=slateorange&bg_color=bbb8b2" alt="Breno's github activity graph">
-  </a>
-</div>
-
 <br><br>
 
 <div align="left">
